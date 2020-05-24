@@ -1,6 +1,8 @@
 # FORM + CODE
 ----------------------------- Key -----------------------------------
+
 See Live code @ https://tovarm-uchi.github.io/form-code/
+
 Press r to Reset:
  This clears the screen and resets all the values to their initial values
 
